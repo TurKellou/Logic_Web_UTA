@@ -1,4 +1,4 @@
-# LogicWeb UTA — Python Edition
+# LogicWeb UTA 
 
 **Asignatura:** Algoritmos y Logica de Programacion  
 **Universidad:** Universidad Tecnica de Ambato  
