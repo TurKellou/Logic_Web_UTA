@@ -3,7 +3,7 @@
 **Asignatura:** Algoritmos y Logica de Programacion  
 **Universidad:** Universidad Tecnica de Ambato  
 **Grupo:** A — Balarezo Diego, Bravo Samuel, Cajiao Paulo, Loor Jhon, Pomaquero Katherine  
-**Repositorio:** [https://github.com/TurKellou/ProyectoProgramacionGrupoA.git](https://github.com/TurKellou/ProyectoProgramacionGrupoA.git)
+**Repositorio:** [https://github.com/TurKellou/Logic_Web_UTA.git](https://github.com/TurKellou/Logic_Web_UTA.git)
 
 ---
 
